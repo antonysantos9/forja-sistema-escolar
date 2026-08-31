@@ -50,6 +50,13 @@
  - Excluir os funcionários
  - Excluir os cursos
  - Excluir as matrículas
+ - Login de usuários
+ - Buscar aluno pelo nome
+ - Buscar aluno pelo CPF
+ - Buscar funcionário pelo nome
+ - Buscar funcionário pelo CPF
+ - Mostrar os cursos em que cada aluno está matriculado
+ - Mostrar os alunos que estão matriculados em cada curso
 
  - Adicionar cursos
  - Adicionar alunos
@@ -80,7 +87,7 @@
  - Interface responsiva e adaptativa a diversas resoluções de tela e dispositivos diferentes, como computador, celular e tablet
  - Interface deve ser compatível com os principais navegadores web
  - Criptografar as senhas antes de salvá-las no banco de dados
- 
+
  - Verificaçao dos dados 
  - Segurança de acesso
  - Controle de permissões
@@ -89,3 +96,13 @@
  - Bom desempenho
  - Integridade dos dados
  - Facilidade de manutenção
+
+ ## REGRAS DE NEGÓCIO
+
+ - O CPF de cada aluno deve ser unico
+ - O CPF de cada funcionario deve ser unico
+ - O Email de cada funcionario deve ser unico
+ - A matricula de cada aluno deve ser unica
+ - O nome de cada curso deve ser unico
+ - Nao pode excluir cursos com alunos matriculados
+ - Nao podem excluir alunos que estejam matriculados em 1 ou mais cursos
