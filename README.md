@@ -34,11 +34,11 @@
 1. Requisitos Funcionais:
 
  - Cadastrar alunos
- - Cadastrar funcionários
- - Cadastrar cursos
+ - Cadastrar funcionário
+ - Cadastrar curso
  - Listar alunos
- - Listar cursos
- - Listar funcionários
+ - Listar curso
+ - Listar funcionário
  - Mostrar os dados do aluno
  - Mostrar os dados do funcionário
  - Mostrar os dados do curso
@@ -47,8 +47,8 @@
  - Editar os dados do funcionário
  - Editar os dados do curso
  - Excluir os alunos
- - Excluir os funcionários
- - Excluir os cursos
+ - Excluir os funcionário
+ - Excluir os curso
  - Excluir as matrículas
  - Login de usuários
  - Buscar aluno pelo nome
@@ -106,3 +106,7 @@
  - O nome de cada curso deve ser unico
  - Nao pode excluir cursos com alunos matriculados
  - Nao podem excluir alunos que estejam matriculados em 1 ou mais cursos
+
+ ## CASOS DE USO
+
+   ![Business Model Canvas](imagens/diagrama-casos-de-uso.png)
