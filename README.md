@@ -110,3 +110,7 @@
  ## CASOS DE USO
 
    ![Business Model Canvas](imagens/diagrama-casos-de-uso.png)
+
+ ## CLASSES
+
+   ![Business Model Canvas](imagens/diagrama-classes.png)
