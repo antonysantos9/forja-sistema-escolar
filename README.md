@@ -114,3 +114,21 @@
  ## CLASSES
 
    ![Business Model Canvas](imagens/diagrama-classes.png)
+
+## SEQUENCIAS
+
+ - Login:
+
+   ![Business Model Canvas](imagens/login.png)
+
+- Cadastro funcionario
+
+   ![Business Model Canvas](imagens/cadastro.png)
+
+   - Cadastro aluno
+
+   ![Business Model Canvas](imagens/cadastro-aluno.png)
+
+   - Cadastro aluno
+
+   ![Business Model Canvas](imagens/cadastro-curso.png)
