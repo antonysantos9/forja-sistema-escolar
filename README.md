@@ -125,10 +125,84 @@
 
    ![Business Model Canvas](imagens/cadastro.png)
 
-   - Cadastro aluno
+- Cadastro aluno
 
    ![Business Model Canvas](imagens/cadastro-aluno.png)
 
-   - Cadastro aluno
+- Cadastro aluno
 
    ![Business Model Canvas](imagens/cadastro-curso.png)
+
+- Listar aluno
+
+   ![Business Model Canvas](imagens/lista-aluno.png)
+
+
+- Listar funcionario
+
+   ![Business Model Canvas](imagens/lista-funcionarios.png)
+
+
+- Listar curso
+
+   ![Business Model Canvas](imagens/lista-curso.png)
+
+- Mostar aluno
+
+   ![Business Model Canvas](imagens/mostrar-aluno.png)
+
+- Mostar funcionario
+
+   ![Business Model Canvas](imagens/mostar-funcionario.png)
+
+- Mostar curso
+
+   ![Business Model Canvas](imagens/mostrar-curso.png)
+
+- Editar aluno
+
+   ![Business Model Canvas](imagens/editar-aluno.png)
+
+- Editar funcionario
+
+   ![Business Model Canvas](imagens/editar-funcionario.png)
+
+- Editar curso
+
+   ![Business Model Canvas](imagens/editar-curso.png)
+   
+- Excluir aluno
+
+   ![Business Model Canvas](imagens/excluir-aluno.png)
+
+- Excluir funcionario
+
+   ![Business Model Canvas](imagens/excluir-funcionario.png)
+
+- Excluir curso
+
+   ![Business Model Canvas](imagens/excluir-curso.png)
+
+- Mostar aluno pelo nome
+
+   ![Business Model Canvas](imagens/buscar-aluno-nome.png)
+
+- Mostar aluno pelo cpf
+
+   ![Business Model Canvas](imagens/buscar-aluno-cpf.png)
+
+- Mostar funcionario pelo nome
+
+   ![Business Model Canvas](imagens/buscar-funcionario-nome.png)
+
+- Mostar funcionario pelo cpf
+
+   ![Business Model Canvas](imagens/buscar-funcionario-cpf.png)
+
+- Realizar matricula
+
+   ![Business Model Canvas](imagens/realizar-matricula.png)
+
+- Excluir matricula
+
+   ![Business Model Canvas](imagens/excluir-matricula.png)
