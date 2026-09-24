@@ -206,6 +206,8 @@
 - Excluir matricula
 
    ![Business Model Canvas](imagens/excluir-matricula.png)
+
+   ## UX-UI
    
 
 [Acesse figma](https://www.figma.com/design/pU4gV4odDyd9Jz1hKQNXvq/Sistema-de-gest%C3%A3o-escolar?node-id=0-1&t=y1Sk1B0WUPOegTkN-1)
