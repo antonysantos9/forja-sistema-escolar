@@ -10,9 +10,9 @@
  - Admin: Todas as funções acima, mais: cadastrar outros funcionários, listar outros funcionários, editar dados dos outros funcionários e excluir outros funcionários
 
 3. Quais informações iremos armazenar?
-- Funcionários: Nome, email, cargo, data de nascimento, cpf, senha, telefone, endereço
-- Alunos: Matrícula, CPF, Nome, data de nascimento, email, telefone, endereço
-- Cursos: Descrição, carga horária, nome
+- Funcionários: Nome, email, cargo, data de nascimento, cpf, senha, telefone, endereço, sexo
+- Alunos: Matrícula, CPF, Nome, data de nascimento, email, telefone, endereço , sexo
+- Cursos: Descrição, carga horária, nome, area
 - Matrículas: Quais alunos estão cadastrados em quais cursos
 
 4. Quais regras ou restrições são necessárias?
@@ -206,3 +206,6 @@
 - Excluir matricula
 
    ![Business Model Canvas](imagens/excluir-matricula.png)
+   
+
+[Acesse figma](https://www.figma.com/design/pU4gV4odDyd9Jz1hKQNXvq/Sistema-de-gest%C3%A3o-escolar?node-id=0-1&t=y1Sk1B0WUPOegTkN-1)
